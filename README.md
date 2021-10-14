@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vivek Sundaram
+- 👀 I’m interested in python and C++ programming
+- 🌱 I’m currently learning advanced uses of pythons
