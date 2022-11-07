@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Vivek Sundaram
 - 👀 I’m interested in python and C++ programming
-- 🌱 I’m currently working on VOTCA-XTP development and learning advanced uses of python
+- 🌱 I’m currently working on VOTCA-XTP development
+- Some of my side projects for fun are shown as repos in my profile
