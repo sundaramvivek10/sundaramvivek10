@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Sundaram
-- 👀 I’m interested in Machine Learning and model development
+- 👀 I’m interested in AI, Machine Learning and model development
 - Mainly program in python and C++
-- 🌱 I’m currently working on VOTCA-XTP development
+- 🌱 I’m currently a developer in VOTCA-XTP
 - Some of my side projects for fun are shown as repos in my profile
