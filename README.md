@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI, Machine Learning and model development
 - Mainly program in python and C++
 - 🌱 I’m currently a developer in VOTCA-XTP
-- Some of my side projects for fun are shown as repos in my profile
+- Some of my projects are shown as repos in my profile
